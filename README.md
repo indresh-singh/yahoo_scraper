@@ -1,1 +1,1 @@
-Scrape news articles from YahooNews home page, get title, description and links ranked as per the rank on the website. Directly run the notebook to get the results.
+Scrape news articles from YahooNews home page, get title, description and links ranked as per the rank on the website. Dependencies listed in requirements.txt post installing the same, run directly from the notebook to get the results.
